@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reproductor Video</string>
+    <string name="videoActual">videoActual</string>
+    <string name="tipo">video/*</string>
+    <string name="actual">actual</string>
+    <string name="reproduciendo">reproduciendo</string>
+    <string name="cargar_video">Seleccionar video</string>
+    <string name="preferencias">preferenciasCompartidas</string>
+
+
+</resources>
